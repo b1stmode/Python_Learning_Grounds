@@ -1,10 +1,9 @@
-# Drill: Door Opener
-
+# Drill: event Security v2
 # drill practicess: 
 # - logical operators
 # - console output
 
-#Time spent: 23 seconds
+#Time spent: 25 seconds
 
 age = 20
 has_ticket = True
